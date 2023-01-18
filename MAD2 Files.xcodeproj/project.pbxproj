@@ -23,8 +23,7 @@
 /* Begin PBXFileReference section */
 		2311037C29774A93005A584D /* MAD2_Files.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MAD2_Files.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2311038629774A93005A584D /* MAD2 FilesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MAD2 FilesTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2311039729774C5C005A584D /* pldemo1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = pldemo1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		2311039829774CDA005A584D /* pl2dmo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = pl2dmo.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2311039929785571005A584D /* Lab1_Play_The_Numbers!.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lab1_Play_The_Numbers!.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,8 +48,7 @@
 		2311037229774A93005A584D = {
 			isa = PBXGroup;
 			children = (
-				2311039829774CDA005A584D /* pl2dmo.playground */,
-				2311039729774C5C005A584D /* pldemo1.playground */,
+				2311039929785571005A584D /* Lab1_Play_The_Numbers!.playground */,
 				2311037D29774A93005A584D /* Products */,
 			);
 			sourceTree = "<group>";
